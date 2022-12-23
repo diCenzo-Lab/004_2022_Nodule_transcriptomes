@@ -1,4 +1,4 @@
-# Reference nodule transcriptomes for Melilotus officinalis and Medicago sativa cv. Algonquin
+# Reference nodule transcriptomes for *Melilotus officinalis* and *Medicago sativa* cv. Algonquin
 
 Huang R, Snedden WA, diCenzo GC. (2022) Reference nodule transcriptomes for *Melilotus officinalis* and *Medicago sativa* cv. Algonquin. Plant Direct. 6: e408.
 
